@@ -15,8 +15,6 @@ Advent of Code is an annual programming event that runs throughout December. Eac
 
 Each day’s solution includes:
 - A Go implementation for solving the problem.
-- Test files for unit tests.
-- A `README.md` within each day's directory (optional) explaining the problem and the solution approach.
 
 ## Installation
 
