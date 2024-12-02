@@ -8,9 +8,9 @@ Advent of Code is an annual programming event that runs throughout December. Eac
 
 ## Repository Structure
 
-- `day01/` - Solutions for Day 1
-- `day02/` - Solutions for Day 2
-- `day03/` - Solutions for Day 3
+- `day1/` - Solutions for Day 1
+- `day2/` - Solutions for Day 2
+- `day3/` - Solutions for Day 3
 - `...` - Additional directories for each day as needed
 
 Each day’s solution includes:
@@ -31,7 +31,7 @@ To run these solutions locally, you will need:
    cd aoc
 2. Navigate to the directory of the day you want to run:
    ```bash
-   cd day01
+   cd day1
 3. Run the solution:
    ```bash
    go run main.go
